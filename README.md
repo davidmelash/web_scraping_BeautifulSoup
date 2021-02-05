@@ -1,6 +1,6 @@
 # Web scraping with BeautifulSoup
 Python web scraping example  
-This python scripts shows price scraping for our goal
+This python script shows price scraping for our goal
 
 ### Installing BeautifulSoup4
 ***
