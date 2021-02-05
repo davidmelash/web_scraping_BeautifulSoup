@@ -17,4 +17,6 @@ sudo apt-get python-bs4
 
 #### Running the code
 ***
-__python scraping_price.py__
+```
+python scraping_price.py
+```
