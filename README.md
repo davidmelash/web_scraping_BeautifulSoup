@@ -12,7 +12,7 @@ pip install beautifulsoup4
 
 #### Installing for Linux Users
 ```
-sudo apt-get python-bs4
+pip3 install bs4
 ```
 
 #### Running the code
