@@ -18,5 +18,5 @@ pip3 install bs4
 #### Running the code
 ***
 ```
-python scraping_price.py
+python/python3 scraping_price.py
 ```
